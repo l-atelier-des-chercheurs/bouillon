@@ -15,3 +15,7 @@ Bouillon comportera les fonctionnalités suivante (à plus ou moins long terme) 
 - un mode "collaboratif", permettant d'éditer le code d'un autre utilisateur directement dans sa fenêtre. Ce mode est opt-in, c'est à dire qu'il faut cocher une case pour autoriser l'édition extérieure (et éviter qu'elle ne soit intrusive). 
 	- Idéalement, lorsqu'un autre utilisateur souhaite éditer un encart qui ne lui appartient pas, l'auteur de l'encart devrait avoir une notification et une demande d'autorisation individuelle.
 - un champ en haut de page permet de préciser un nom identifiant chaque individu. Par défaut, ce champ affiche une chaine de caractère générée (animal + adjectif ? type "aigle perçant" ou "chat aveugle").
+
+Un croquis pour visualiser ça :
+
+![image](https://cloud.githubusercontent.com/assets/1948417/23075461/d8525858-f53c-11e6-81a2-5852b1df0bb1.png)
